@@ -1,0 +1,8 @@
+*.swp
+
+.DS_Store
+Desktop.ini
+
+.vs/
+x64/
+x86/
